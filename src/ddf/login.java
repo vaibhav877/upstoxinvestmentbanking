@@ -106,6 +106,6 @@ for(WebElement x:stocks)
 
 System.out.println(arlist.contains("HDFC"));
 
-///update for git hub demo
+//update for git hub demo
 
 }}
